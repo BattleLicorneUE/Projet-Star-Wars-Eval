@@ -17,7 +17,6 @@ Faites des priorités de développement
 Pensez au Feedback (VFX, SFX, Camera Shake, Animation, Retour haptic) (Donne des points bonus) ;)
 N'hésitez pas à demander de l'aide à votre Lead, ne restez pas bloqué ! 
 
-Lien du GIT : 
 Date de Livraison 
 
 Vendredi 19 Janvier 2024 - 15h00
