@@ -184,6 +184,10 @@
 		{
 			"Name": "CommonUI",
 			"Enabled": true
+		},
+		{
+			"Name": "LandscapePatch",
+			"Enabled": true
 		}
 	]
 }
